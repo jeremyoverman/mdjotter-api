@@ -1,6 +1,6 @@
 {
   "name": "mdjotter-api",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "An API to the MDJotter service",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
