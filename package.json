@@ -20,10 +20,11 @@
   "author": "Jeremy Overman",
   "license": "MIT",
   "dependencies": {
+    "@types/request": "^2.47.0",
+    "mdjotter": "^1.0.0",
     "request": "^2.87.0",
     "typescript": "^2.8.3"
   },
   "devDependencies": {
-    "@types/request": "^2.47.0"
   }
 }
