@@ -1,6 +1,6 @@
 {
   "name": "mdjotter-api",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An API to the MDJotter service",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -25,6 +25,5 @@
     "request": "^2.87.0",
     "typescript": "^2.8.3"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
